@@ -48,7 +48,7 @@ public class TugasRachmaVinaDikma {
         System.out.print("masukkan angka 2 :");
         b = tugas.nextInt();
         hasil = a /= b; 
-        System.out.println("hasil perkaliannya = "+hasil);
+        System.out.println("hasil pembagiannya = "+hasil);
         
 //        SISA BAGI
         System.out.print("masukkan angka 1 :");
@@ -56,7 +56,7 @@ public class TugasRachmaVinaDikma {
         System.out.print("masukkan angka 2 :");
         b = tugas.nextInt();
         hasil = a %= b; 
-        System.out.println("hasil perkaliannya = "+hasil);
+        System.out.println("hasil sisa baginya = "+hasil);
     
         System.out.println("===================");
 //        OPERATOR PEMBANDING
