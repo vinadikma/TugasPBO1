@@ -24,7 +24,7 @@ public class TugasRachmaVinaDikma {
         System.out.print("masukkan angka 2 :");
         b = tugas.nextInt();
         hasil = a += b;
-        System.out.println("hasil pembahannya = "+hasil);
+        System.out.println("hasil penambahannya = "+hasil);
         
 //        PENGURANGAN
         System.out.print("masukkan angka 1 :");
